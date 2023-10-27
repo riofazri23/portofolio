@@ -1,7 +1,7 @@
 const dynamicContent = document.getElementById("dynamic-text");
 // console.log(dynamicContent);
 
-const phrases = ["Webmaster...", "IT Support...", "Developer..."];
+const phrases = ["Webmaster...", "IT Support...", "Programmer..."];
 let phrasesIndex = 0;
 let letterIndex = 0;
 const typingSpeed = 100;
